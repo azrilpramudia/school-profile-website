@@ -1,4 +1,3 @@
-import React from "react";
 import { useState } from "react";
 
 
@@ -42,12 +41,6 @@ const Navbar = () => {
                 <button className="hidden md:block bg-blue-600 text-white px-6 py-2.5 rounded-lg hover:bg-blue-700 text-sm font-medium transition-all hover:shadow-lg hover:shadow-blue-100 ">
                     <a href="#formDaftar">Get In Touch</a>
                 </button>
-
-
-
-
-
-
             </div>
         </nav>
     )
